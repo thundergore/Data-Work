@@ -1,4 +1,5 @@
-# plots
+# Notebooks and plots
 Some plotting with seaborn or matplotlib
 
-Datasets taken from publicly available sources such as Kaggle
+Public datasets used:
+https://www.kaggle.com/datasets/advaypatil/youtube-statistics
