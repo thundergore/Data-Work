@@ -3,3 +3,6 @@ Some plotting with seaborn or matplotlib
 
 Public datasets used:
 https://www.kaggle.com/datasets/advaypatil/youtube-statistics
+
+# SQL scripts
+Some random SQL scripts
